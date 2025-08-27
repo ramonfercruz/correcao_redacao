@@ -1,0 +1,43 @@
+{
+  "c1": {
+    "0": "Desconhecimento da escrita formal em língua portuguesa.",
+    "40": "Domínio precário, com desvios sistemáticos de gramática e convenções da escrita.",
+    "80": "Domínio insuficiente da língua portuguesa, com muitos desvios.",
+    "120": "Domínio mediano, com alguns desvios gramaticais e de convenções do registro em língua portuguesa.",
+    "160": "Bom domínio da língua portuguesa com poucos desvios.",
+    "200": "Domínio excelente da escrita formal em português. Pequenos erros gramaticais são aceitos excepcionalmente."
+  },
+  "c2": {
+    "0": "Fuga completa ao tema proposto ou não atendimento à proposta.",
+    "40": "Compreensão muito limitada do tema, com abordagem tangencial.",
+    "80": "Compreensão parcial do tema, com desvios de foco.",
+    "120": "Compreensão adequada do tema, com abordagem direta.",
+    "160": "Boa compreensão do tema, com argumentação consistente.",
+    "200": "Compreensão completa e desenvolvimento pleno do tema."
+  },
+  "c3": {
+    "0": "Informações incoerentes ou desconexas.",
+    "40": "Argumentação muito frágil e com contradições.",
+    "80": "Argumentação limitada com problemas de consistência.",
+    "120": "Argumentação mediana, com alguma coerência.",
+    "160": "Argumentação bem estruturada e coerente.",
+    "200": "Argumentação excelente, articulada e consistente."
+  },
+  "c4": {
+    "0": "Ausência de articulação entre as partes do texto.",
+    "40": "Coesão comprometida, frases desconexas.",
+    "80": "Coesão insuficiente, ligações frágeis entre ideias.",
+    "120": "Coesão mediana, com algumas falhas de ligação.",
+    "160": "Boa coesão, com ligações adequadas entre as partes do texto.",
+    "200": "Coesão excelente, texto fluido e bem articulado."
+  },
+  "c5": {
+    "0": "Não apresenta proposta de intervenção.",
+    "40": "Proposta de intervenção vaga ou inviável.",
+    "80": "Proposta simples, com pouca relação com o problema.",
+    "120": "Proposta razoável, parcialmente detalhada e pertinente.",
+    "160": "Boa proposta de intervenção, viável e articulada.",
+    "200": "Proposta completa, detalhada e respeitando os direitos humanos."
+  }
+}
+

@@ -1,7 +1,7 @@
 [
     {
         "redacao_nome": "nota_baixa",
-        "nota_criterio": 520.0,
+        "nota_criterio": 640.0,
         "avaliacoes": [
             {
                 "criterio": "c1",
@@ -10,13 +10,13 @@
             },
             {
                 "criterio": "c2",
-                "nota": 80.0,
-                "descricao": "Compreensão parcial do tema, com desvios de foco."
+                "nota": 120.0,
+                "descricao": "Compreensão adequada do tema, com abordagem direta."
             },
             {
                 "criterio": "c3",
-                "nota": 80.0,
-                "descricao": "Argumentação limitada com problemas de consistência."
+                "nota": 120.0,
+                "descricao": "Argumentação mediana, com alguma coerência."
             },
             {
                 "criterio": "c4",
@@ -25,45 +25,14 @@
             },
             {
                 "criterio": "c5",
-                "nota": 80.0,
-                "descricao": "Proposta simples, com pouca relação com o problema."
+                "nota": 120.0,
+                "descricao": "Proposta razoável, parcialmente detalhada e pertinente."
             }
         ]
     },
     {
         "redacao_nome": "nota_maxima",
-        "nota_criterio": 800.0,
-        "avaliacoes": [
-            {
-                "criterio": "c1",
-                "nota": 200.0,
-                "descricao": "Domínio excelente da escrita formal em português. Pequenos erros gramaticais são aceitos excepcionalmente."
-            },
-            {
-                "criterio": "c2",
-                "nota": 200.0,
-                "descricao": "Compreensão completa e desenvolvimento pleno do tema."
-            },
-            {
-                "criterio": "c3",
-                "nota": 200.0,
-                "descricao": "Argumentação excelente, articulada e consistente."
-            },
-            {
-                "criterio": "c4",
-                "nota": 200.0,
-                "descricao": "Coesão excelente, texto fluido e bem articulado."
-            },
-            {
-                "criterio": "c5",
-                "nota": 0.0,
-                "descricao": "Não apresenta proposta de intervenção."
-            }
-        ]
-    },
-    {
-        "redacao_nome": "nota_media",
-        "nota_criterio": 880.0,
+        "nota_criterio": 960.0,
         "avaliacoes": [
             {
                 "criterio": "c1",
@@ -82,8 +51,39 @@
             },
             {
                 "criterio": "c4",
+                "nota": 200.0,
+                "descricao": "Coesão excelente, texto fluido e bem articulado."
+            },
+            {
+                "criterio": "c5",
+                "nota": 200.0,
+                "descricao": "Proposta completa, detalhada e respeitando os direitos humanos."
+            }
+        ]
+    },
+    {
+        "redacao_nome": "nota_media",
+        "nota_criterio": 840.0,
+        "avaliacoes": [
+            {
+                "criterio": "c1",
+                "nota": 200.0,
+                "descricao": "Domínio excelente da escrita formal em português. Pequenos erros gramaticais são aceitos excepcionalmente."
+            },
+            {
+                "criterio": "c2",
+                "nota": 120.0,
+                "descricao": "Compreensão adequada do tema, com abordagem direta."
+            },
+            {
+                "criterio": "c3",
                 "nota": 160.0,
-                "descricao": "Boa coesão, com ligações adequadas entre as partes do texto."
+                "descricao": "Argumentação bem estruturada e coerente."
+            },
+            {
+                "criterio": "c4",
+                "nota": 200.0,
+                "descricao": "Coesão excelente, texto fluido e bem articulado."
             },
             {
                 "criterio": "c5",

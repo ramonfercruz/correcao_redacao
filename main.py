@@ -142,7 +142,7 @@ def avaliar_redacao(prompt: str, redacao: str) -> float:
 
     # temperature=0 para respostas mais determinísticas;
     # parser numérico reforça que a saída seja somente número.
-    chain = prompt_tpl | ChatOpenAI(model="gpt-4o-mini", temperature=0) | NumberOutputParser()
+    chain = prompt_tpl | ChatOpenAI(model="gpt-5", temperature=0) | NumberOutputParser()
 
     try:
         score: float = chain.invoke({"redacao": redacao})
